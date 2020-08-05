@@ -9,7 +9,7 @@
 
 </div>
 
-<img width="600" height="auto" align="right" src="https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png">
+<img width="500" height="auto" align="right" src="https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png">
 
 Soy estudiante de sistemas y programador _jr_ ubicando en Argentina.
 
