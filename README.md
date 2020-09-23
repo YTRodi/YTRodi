@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Como **programador** tengo experiencia de 1 año empleando tecnologías (tanto al nivel del backend, como del frontend) como:
+  Como <b>programador</b> tengo experiencia de 1 año empleando tecnologías (tanto al nivel del backend, como del frontend) como:
 </p>
 
 <p align="center">
