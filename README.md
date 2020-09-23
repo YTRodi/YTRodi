@@ -12,7 +12,7 @@
 <img width="500" height="auto" align="right" src="https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png">
 
 <p align="center">
-  Soy estudiante de sistemas y programador _jr_/__trainee__ ubicando en Argentina.
+  Soy estudiante de sistemas y programador jr/trainee ubicando en Argentina.
         
   Como **programador** tengo experiencia de 1 año empleando tecnologías (tanto al nivel del backend, como del frontend) como:
 </p>
