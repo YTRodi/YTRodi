@@ -13,7 +13,9 @@
 
 <p align="center">
   Soy estudiante de sistemas y programador jr/trainee ubicando en Argentina.
-  
+</p>
+
+<p align="center">
   Como **programador** tengo experiencia de 1 año empleando tecnologías (tanto al nivel del backend, como del frontend) como:
 </p>
 
