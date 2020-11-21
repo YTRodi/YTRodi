@@ -12,7 +12,7 @@
 <img width="500" height="auto" align="right" src="https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png">
 
 <p align="center">
-  Soy estudiante de sistemas y programador jr/trainee ubicando en Argentina.
+  Soy desarrollador web fullstack ubicando en Argentina.
 </p>
 
 <p align="center">
