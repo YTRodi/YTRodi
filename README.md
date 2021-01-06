@@ -38,4 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px"/> 
 </p>
 
-Actualmente estoy cursando la Técnicatura Universitaria en Programación en la UTN-Fra y próximamente seré ayudante de cátedra.
+<p align="center">
+  Actualmente estoy cursando la Técnicatura Universitaria en Programación en la UTN-Fra y próximamente seré ayudante de cátedra.
+</p>
