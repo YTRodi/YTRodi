@@ -21,18 +21,13 @@
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px" height="40px"/>
-  <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="40px" height="40px"/>
-  <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="40px" height="40px"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px"/>
-  
-  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40px" height="40px"/>
-  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="40px" height="40px"/>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="40px"/>
-  <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="40px" height="40px"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/csharp" width="40px" height="40px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px"/> 
 </p>
 
 Actualmente estoy cursando la Técnicatura Universitaria en Programación en la UTN-Fra.
