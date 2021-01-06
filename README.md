@@ -12,7 +12,7 @@
 <img width="500" height="auto" align="right" src="https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png">
 
 <p align="center">
-  Soy desarrollador web fullstack ubicando en Argentina.
+  Soy <strong>desarrollador web fullstack</strong> ubicando en Argentina.
 </p>
 
 <p align="center">
