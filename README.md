@@ -20,6 +20,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px" height="40px"/>
   <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="40px" height="40px"/>
   <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="40px" height="40px"/>
   
