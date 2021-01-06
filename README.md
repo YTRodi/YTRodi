@@ -19,11 +19,11 @@
   Soy desarrollador fullstack, manejo tecnologías de backend como PHP (POO, API REST FULL, Slim, Laravel), y de frontend como HTML, CSS (nativo y librería Boostrap) y JS (Vanilla JS y React).
 </p>
 
-<p>
+<p align="center">
   Tengo sólidos conocimientos en POO utilizando el lenguaje C # (threads, events, delegates, winforms, apps de consola, IDE VStudio).
 </p>
 
-<p>
+<p align="center">
   En estos momentos estoy <strong>creando</strong> proyectos utilizando la librería de React (functional components, hooks, redux), API's externas (giphy y TMDB) y comenzando a aprender Node.js
 </p>
 
