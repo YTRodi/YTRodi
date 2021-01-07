@@ -46,3 +46,14 @@
 <p align="center">
   Actualmente estoy cursando la Técnicatura Universitaria en Programación en la UTN-Fra y próximamente seré ayudante de cátedra.
 </p>
+
+<h3>Como contactarme 📫</h3>
+
+<section>
+  <p>
+    [Linkedin](https://www.linkedin.com/in/yagorodi/)
+  </p>
+  <p>
+    [Email](mailto:yagorodi@gmail.com)
+  </p>
+</section>
